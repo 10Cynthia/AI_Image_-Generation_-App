@@ -1,1 +1,1 @@
-# AI_Image_-Generation_-App
+# AI_Image_-Generation_App
